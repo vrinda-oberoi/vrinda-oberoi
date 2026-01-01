@@ -10,7 +10,7 @@
 ---
 
 ### 🔧 Tech Stack
-HTML • CSS • JavaScript • Bootstrap • Java • C++ • C
+HTML • CSS • JavaScript • Bootstrap • Java • C++ • C ,MERN stack
 
 ---
 
