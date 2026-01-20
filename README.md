@@ -2,7 +2,7 @@
 # Hey there! 👋 I'm Vrinda Oberoi
 
 🎓 Second-year B.E. CSE student at Chandigarh University  
-💻 Upcoming Full Stack Web Developer  
+💻 Upcoming  Software Developer  
 🚀 Passionate about building impactful tech and exploring new possibilities  
 🧠 Hackathon enthusiast | Open to learning | Consistent explorer  
 📍 From Haryana, India
@@ -10,13 +10,13 @@
 ---
 
 ### 🔧 Tech Stack
-HTML • CSS • JavaScript • Bootstrap • Java • C++ • C ,MERN stack
+HTML • CSS • JavaScript • Bootstrap • Java (DSA)• C++ • C ,MERN stack
 
 ---
 
 ### 🌟 Recent Highlights
-- ✅ Participated in 5+ hackathons (Google Girl Hackathon, Zinnovatio, HackFest & more!)
-- 🧠 Cleared 1st round of Flipkart Grid 6.0
+- ✅ Participated in 10+ hackathons (Google Girl Hackathon, Zinnovatio, HackFest & more!)
+- 🧠 Cleared 1st round of Flipkart Grid 6.O ,Flipkart Grid 7.O
 -🌱 Passionate about Open Source, Web & App Development, AI/ML, Community Building, and Full Stack Engineering.
 
 ---
@@ -26,17 +26,4 @@ HTML • CSS • JavaScript • Bootstrap • Java • C++ • C ,MERN stack
 
 
 
-<!--
-**vrinda-oberoi/vrinda-oberoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
